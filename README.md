@@ -1,7 +1,9 @@
 # vue-project
 
+![screenshot.jpeg](./screenshot.jpeg)
+
 ## tech 
-- Vue 3 (with Typescript
+- Vue 3 (with Typescript)
 - Vite
 
 ## Project Setup
